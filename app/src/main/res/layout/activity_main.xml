@@ -7,7 +7,10 @@
     android:orientation="vertical"
     android:padding="30dp"
     tools:context=".MainActivity">
-
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2020069052 윤후성"/>
     <TextView
         android:id="@+id/Text1"
         android:layout_width="wrap_content"
